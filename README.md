@@ -1,7 +1,7 @@
 # Japanese Name Generator
 
 
-![Logo curve](./img/deep_meimei2.png)
+<img src="./img/deep_meimei.png" title="Logo" width="200">
 
 A character based neural network model to generate Japanese names in Katakana.  
 Both boys name and girls name are supported.
@@ -20,7 +20,7 @@ Both boys name and girls name are supported.
 2m 15s (25000 25%) 2.3280 
 ```
 ### Loss Curve
-![Loss curve](./img/Figure_1.png)
+<img src="./img/Figure_1.png" title="Loss curve" width="400">
 
 ## Generation
 ### Sample Output (boys)
